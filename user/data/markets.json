@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "name": "Bitcoin",
+      "abbr": "btc",
+      "price": 22690.12,
+      "rate": -1.33,
+      "gross": 440.61
+    },
+    {
+      "name": "Ethereum",
+      "abbr": "eth",
+      "price": 1561.73,
+      "rate": -4.19,
+      "gross": 197.51
+    },
+    {
+      "name": "Tether",
+      "abbr": "usdt",
+      "price": 1.00,
+      "rate": 0.00,
+      "gross": 66.85
+    },
+    {
+      "name": "USD Coin",
+      "abbr": "usdc",
+      "price": 1.00,
+      "rate": -0.14,
+      "gross": 43.65
+    },
+    {
+      "name": "Ripple",
+      "abbr": "xrp",
+      "price": 0.41,
+      "rate": -3.68,
+      "gross": 21.33
+    },
+    {
+      "name": "Binance USD",
+      "abbr": "busd",
+      "price": 1.00,
+      "rate": 0.01,
+      "gross": 15.81
+    },
+    {
+      "name": "Cardano",
+      "abbr": "ada",
+      "price": 0.36,
+      "rate": -4.62,
+      "gross": 12.99
+    },
+    {
+      "name": "Dogecoin",
+      "abbr": "doge",
+      "price": 0.08,
+      "rate": -5.05,
+      "gross": 11.67
+    },
+    {
+      "name": "Solana",
+      "abbr": "sol",
+      "price": 24.22,
+      "rate": -1.22,
+      "gross": 9.01
+    },
+    {
+      "name": "Polygon",
+      "abbr": "matic",
+      "price": 0.96,
+      "rate": -5.23,
+      "gross": 8.72
+    },
+    {
+      "name": "Polkadot",
+      "abbr": "dot",
+      "price": 6.27,
+      "rate": -3.76,
+      "gross": 7.47
+    },
+    {
+      "name": "Shiba Inu",
+      "abbr": "shib",
+      "price": 0.00001137,
+      "rate": -5.32,
+      "gross": 6.52
+    },
+    {
+      "name": "Litecoin",
+      "abbr": "ltc",
+      "price": 87.92,
+      "rate": -2.65,
+      "gross": 6.44
+    },
+    {
+      "name": "Dai",
+      "abbr": "dai",
+      "price": 1.00,
+      "rate": -0.03,
+      "gross": 5.88
+    },
+    {
+      "name": "EarnX",
+      "abbr": "earnx",
+      "price": 0.0008,
+      "rate": 394985.47,
+      "gross": 5.78
+    }
+  ]
+}

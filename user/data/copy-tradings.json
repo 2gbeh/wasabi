@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "name": "@mannilotrader",
+      "rate": 420.78,
+      "copies": 1542,
+      "risk": 5,
+      "roi": 30
+    },
+    {
+      "name": "mocen",
+      "rate": 76.27,
+      "copies": 5102,
+      "risk": 3,
+      "roi": 30
+    },
+    {
+      "name": "abolfazljoon",
+      "rate": 2135.82,
+      "copies": 995,
+      "risk": 5,
+      "roi": 30
+    },
+    {
+      "name": "Jennie",
+      "rate": 9.59,
+      "copies": 15827.45,
+      "risk": 1,
+      "roi": 180
+    },
+    {
+      "name": "MarcoReus",
+      "rate": 449.09,
+      "copies": 8851.79,
+      "risk": 3,
+      "roi": 180
+    },
+    {
+      "name": "C001 Ap3",
+      "rate": 43.04,
+      "copies": 3491.69,
+      "risk": 2,
+      "roi": 180
+    },
+    {
+      "name": "behrouzsolhi",
+      "rate": 21.76,
+      "copies": 1788.69,
+      "risk": 3,
+      "roi": 7
+    },
+    {
+      "name": "Gamb1t",
+      "rate": 358.40,
+      "copies": 2213.18,
+      "risk": 4,
+      "roi": 7
+    },
+    {
+      "name": "WIN WIN",
+      "rate": 45.27,
+      "copies": 119.58,
+      "risk": 5,
+      "roi": 7
+    },
+    {
+      "name": "Tony168",
+      "rate": 765.50,
+      "copies": 19709,
+      "risk": 5,
+      "roi": 30
+    },
+    {
+      "name": "MAD SCIENSTERZ",
+      "rate": 0.43,
+      "copies": 1107,
+      "risk": 1,
+      "roi": 30
+    },
+    {
+      "name": "BaycucManh",
+      "rate": 48.02,
+      "copies": 1679,
+      "risk": 3,
+      "roi": 30
+    },
+    {
+      "name": "SmartTradingBing",
+      "rate": 8.09,
+      "copies": 1949,
+      "risk": 2,
+      "roi": 30
+    },
+    {
+      "name": "Panic Sell",
+      "rate": 3.36,
+      "copies": 4463,
+      "risk": 3,
+      "roi": 30
+    },
+    {
+      "name": "waffle",
+      "rate": 2.20,
+      "copies": 292,
+      "risk": 1,
+      "roi": 30
+    },
+    {
+      "name": "Jerry",
+      "rate": 2.50,
+      "copies": 592,
+      "risk": 1,
+      "roi": 30
+    },
+    {
+      "name": "UNICORN FUND Inc",
+      "rate": 3.36,
+      "copies": 4463,
+      "risk": 3,
+      "roi": 30
+    },
+     {
+      "name": "John Vent",
+      "rate": 8.29,
+      "copies": 15847.45,
+      "risk": 1,
+      "roi": 180
+    }
+  ]
+}

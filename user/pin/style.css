@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,500;1,600;1,700&display=swap");
+
+* {
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #f5f6fa;
+}
+main {
+	display: flex;
+	justify-content: center;
+}
+
+.contact-form {
+	box-shadow: 0px 7px 29px rgba(0, 0, 0, 0.13);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 50px 40px;
+	margin-top: 40px;
+	background-color: #fff;
+	width: 600px;
+	height: auto;
+	border-radius: 5px;
+}
+
+.progress {
+	width: 95%;
+	background-color: #f5f6fa;
+	border-radius: 30px;
+}
+
+.desc {
+	margin-top: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.desc hr {
+	width: 100%;
+	border: none;
+	outline: 1.3px solid rgb(224, 224, 224);
+}
+.desc p {
+	font-size: 18px;
+	text-align: center;
+	padding: 15px;
+}
+.desc p span {
+	display: block;
+	margin-top: 10px;
+	font-weight: 600;
+}
+
+#request a {
+	color: #854fff;
+	font-weight: 500;
+	font-size: 18px;
+	text-align: center;
+}
+
+#bar {
+	border-radius: 30px;
+	width: 25%;
+	height: 30px;
+	background-color: #f1be0b;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+}
+
+form {
+	width: 95%;
+}
+
+form input {
+	margin-top: 25px;
+	width: 100%;
+	height: 60px;
+	border: 2px solid #d8dcdf;
+	border-radius: 5px;
+	font-size: 30px;
+	font-weight: 600;
+	padding: 10px 20px;
+}
+
+form input:focus {
+	outline: none;
+}
+
+form input::placeholder {
+	font-weight: 400;
+	font-size: 20px;
+	color: #ddd;
+}
+
+#goBtn {
+	margin-top: 20px;
+	background-color: #854fff;
+	width: 100%;
+	height: 50px;
+	border: none;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	border-radius: 5px;
+}
+
+#goBtn:hover {
+	background-color: #9f76ff;
+	cursor: pointer;
+}
+#myProgress {
+	width: 80%;
+	background-color: #ddd;
+}
+
+#myBar {
+	/* border-radius: 50%;  */
+	width: 25%;
+	height: 30px;
+	background-color: #04aa6d;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+}
+
+#success {
+	color: #fff;
+	background-color: #04aa6d;
+	width: fit-content;
+	padding: 5px 15px;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 25px;
+	text-transform: capitalize;
+	font-style: italic;
+	font-size: 20px;
+	display: none;
+}
+
+@media screen and (min-width: 300px) {
+	.contact-form {
+		width: 90%;
+	}
+}
+@media screen and (min-width: 460px) {
+	.contact-form {
+		width: 80%;
+	}
+}
+
+@media screen and (min-width: 660px) {
+	.contact-form {
+		width: 600px;
+	}
+}
+@media screen and (min-width: 800px) {
+	.contact-form {
+		width: 600px;
+	}
+}
