@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-size-adjust: 100%/1.4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  display: inline-block;
+  -webkit-transition: all 0.1s;
+  transition: all 0.1s;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.wrapper {
+  padding: 40px;
+}
+
+.wrapper-sm {
+  width: 480px;
+  margin: 75px auto 0;
+}
+
+.wrapper-lg {
+  width: 640px;
+  margin: 20px auto 0;
+}
+
+.card-img {
+  text-align: center;
+}
+
+.card-img img {
+  width: 240px;
+}
+
+.card-body h3 {
+  margin: 10px 0 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.form-group label {
+  margin: 20px 0 0;
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea,
+.btn-group button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  margin: 5px 0 0;
+  padding: 0 0 12px;
+  width: 100%;
+  display: block;
+}
+
+.btn-group {
+  margin: 10px 0 40px;
+}
+
+.btn-group button {
+  padding: 14px 10px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+    -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.btn-group button:last-child {
+  display: none;
+}
+
+.custom-checkbox {
+  margin: 0 0 20px;
+}
+
+.custom-checkbox label,
+.custom-checkbox input {
+  margin: 0;
+  padding: 0;
+  width: auto;
+  text-align: left;
+  display: inline-block;
+}
+
+.lnk-group {
+  text-align: center;
+}
+
+.lnk-group a:hover {
+  text-decoration: underline;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media only screen and (max-width: 640px) {
+  .wrapper,
+  .wrapper-sm,
+  .wrapper-lg {
+    margin: 0 auto;
+    padding: 40px 20px;
+    width: 100%;
+  }
+}

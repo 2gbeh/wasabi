@@ -1,0 +1,25 @@
+{
+  "name": "BirroxBase",
+  "short_name": "BirroxBase",  
+  "description": "SECURE AND EASY WAY TO FOREX TRADE & BITCOIN MINING",
+  "background_color": "#ffffff",
+  "theme_color": "#e4f4ff",
+  "start_url": "index.php",
+  "scope": "/",  
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/img/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/msapplication-tile-image.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

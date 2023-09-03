@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* PALETTE
+    e4f4ff  bg
+    146092  btn
+    2443ac  btn-hover
+*/
+
+body {
+  background-color: #e4f4ff;
+  color: #333;
+}
+
+.wrapper {
+  background-color: #fff;
+  box-shadow: 0 1px 2px #146092;
+}
+
+.form-group input,
+.btn-group button {
+  border-bottom: solid thin #ccc;
+}
+
+.form-group input:focus {
+  border-color: #146092;
+}
+
+.btn-group button:first-child {
+  background-color: #146092;
+  color: #fff;
+  border: solid thin #146092;
+}
+
+.btn-group button:first-child:hover {
+  background-color: #2443ac;
+  color: #fff;
+  border: solid thin #2443ac;
+}
+
+.lnk-group a {
+  color: #2443ac;
+}
+
+.card-body h3,
+.form-group label,
+.form-group input,
+.btn-group button {
+  color: #555;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media only screen and (max-width: 640px) {
+  body {
+    /* background-color: #fff; */
+  }
+
+  .wrapper {
+    box-shadow: none;
+    border-bottom: 1px solid #ccc;
+  }
+}
